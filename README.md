@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Gabriel 👋
 
-<!--
-**gcondorih126-collab/gcondorih126-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Estudiante de la materia de Sistemas de Información, enfocado en la arquitectura de datos y el desarrollo de software.
 
-Here are some ideas to get you started:
+🚀 **Proyectos Actuales:**
+Actualmente estoy diseñando y desarrollando la base de datos para **JECOES Tronic**, un sistema de gestión integral para un taller automotriz. El proyecto abarca la creación de módulos funcionales para diagnósticos, control de inventario de herramientas y gestión de nómina, aplicando estrictamente la normalización de datos (1NF a 3NF) y resolución de relaciones muchos a muchos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tecnologías y Entorno:**
+- **OS:** Linux (Fedora Workstation)
+- **Control de Versiones:** Git & GitHub
+- **Bases de Datos:** Modelado relacional, claves foráneas e integridad de datos.
+
+📫 **Cómo contactarme:** [Tu correo o enlace a LinkedIn]
