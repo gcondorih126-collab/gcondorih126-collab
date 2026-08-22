@@ -12,7 +12,7 @@
 - **OS:** Linux (Fedora) / Bash / Zsh
 - **Herramientas:** Git, GitHub, VS Code
 - **Bases de Datos:** Modelado relacional y SQL
-- **Lenguajes:** [Java, Python, C++, JavaScript,PHP]
+- **Lenguajes:** Java, Python, C++, JavaScript,PHP
 
 📫 **Conectemos:**
-- 📧 Correo: [gcondorih126@ficct.uagrm.edu.bo]
+- 📧 Correo: gcondorih126@ficct.uagrm.edu.bo
