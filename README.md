@@ -1,13 +1,18 @@
 # ¡Hola! Soy Gabriel 👋
 
-👨‍💻 Estudiante de la materia de Sistemas de Información, enfocado en la arquitectura de datos y el desarrollo de software.
+👨‍💻 Estudiante de Ingeniería Informática apasionado por el desarrollo de software, la arquitectura de sistemas y el ecosistema Open Source.
 
-🚀 **Proyectos Actuales:**
-Actualmente estoy diseñando y desarrollando la base de datos para **JECOES Tronic**, un sistema de gestión integral para un taller automotriz. El proyecto abarca la creación de módulos funcionales para diagnósticos, control de inventario de herramientas y gestión de nómina, aplicando estrictamente la normalización de datos (1NF a 3NF) y resolución de relaciones muchos a muchos.
+🚀 **Sobre mí:**
+- 🎓 Actualmente enfocado en fortalecer mis conocimientos en estructuras de datos, algoritmos y diseño de bases de datos.
+- 🐧 Entusiasta de Linux, gestionando mis proyectos y entornos de desarrollo desde Fedora Workstation.
+- 💡 Disfruto resolver problemas lógicos y estoy constantemente explorando nuevas tecnologías para mejorar la eficiencia de mi código.
+- 🌱 Buscando siempre aplicar buenas prácticas de ingeniería de software en cada proyecto que emprendo.
 
-🛠️ **Tecnologías y Entorno:**
-- **OS:** Linux (Fedora Workstation)
-- **Control de Versiones:** Git & GitHub
-- **Bases de Datos:** Modelado relacional, claves foráneas e integridad de datos.
+🛠️ **Entorno y Herramientas:**
+- **OS:** Linux (Fedora) / Bash / Zsh
+- **Herramientas:** Git, GitHub, VS Code
+- **Bases de Datos:** Modelado relacional y SQL
+- **Lenguajes:** [Java, Python, C++, JavaScript,PHP]
 
-📫 **Cómo contactarme:** [Tu correo o enlace a LinkedIn]
+📫 **Conectemos:**
+- 📧 Correo: [gcondorih126@ficct.uagrm.edu.bo]
